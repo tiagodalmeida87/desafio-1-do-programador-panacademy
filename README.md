@@ -1,4 +1,4 @@
-# PanStore - Desafio 1 do Programador - Turma 1
+# PanStore - Desafio do Programador - Turma 1
 
 
 
@@ -44,7 +44,7 @@
 
 ## Escopo e objetivo
 
-Desenvolver um programa para simular um carrinho de compras, as telas demonstradas em modo texto na console da IDE segundo os requisitos descritos no documento do desafio [Desafio do programador](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/19_10_Desafio_do_programador.pdf).
+Desenvolver um programa para simular um carrinho de compras, as telas demonstradas em modo texto na console da IDE, segundo os requisitos descritos no documento do desafio [Desafio do programador](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/19_10_Desafio_do_programador.pdf).
 
 
 
@@ -53,7 +53,6 @@ Desenvolver um programa para simular um carrinho de compras, as telas demonstrad
 O diagrama facilitou a visão e a divisão de tarefas entre os membros do time. A representação de forma visual da arquitetura utilizada, segue o diagrama de classes:
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/Desafio1.jpg)
-
 ###### Diagrama do Software via [diagrams.net](https://www.diagrams.net/)
 
 A classe Database representa de forma fícticia o banco de dados e a representação das demais são entidades.
@@ -66,49 +65,41 @@ Houve a tentativa de encapsulamento dos membros das classes e a divisão de resp
 
 ## Gerência do Projeto
 
-O time é multidisciplinar auto gerenciável, para gerenciamento do projeto foi utilizado o [Trello](https://trello.com/pt-BR/home) sendo aplicado um quadro KANBAN onde cada desenvolvedor arrasta um card para realizar a tarefa. 
+O time é multidisciplinar auto gerenciável, para gerenciamento do projeto foi utilizado o **Trello** sendo aplicado um quadro **KANBAN** onde cada desenvolvedor arrasta um card para realizar a tarefa. 
 
 Abaixo um screenshot ilustrativo feito durante o desenvolvimento do projeto
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/trello-screenshot.jpg)
-
-###### Trello
+###### [Trello](https://trello.com/pt-BR/home)
 
 
 ## Screnshots do Console
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela1.jpg)
-
-###### Tela incial
+###### Tela 1 - tela incial
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela2.jpg)
-
-###### Tela escolha do produto, inclusão de nome e quantidade
+###### Tela 2 - tela escolha do produto, inclusão de nome e quantidade
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela3.jpg)
-
-###### Tela do carrinho
+###### Tela 3 - tela do carrinho
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela4.jpg)
-
-###### Tela das formas de pagamento
+###### Tela 4 - tela das formas de pagamento
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela5.jpg)
-
-###### Tela do cupom fiscal
+###### Tela 5 - tela do cupom fiscal
 
 ![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela6.jpg)
-
-###### Tela de saída do sistema
+###### Tela 6 - tela de saída do sistema
 
 
 ## Patrocinadores
 
 
-
-
 ![image](https://user-images.githubusercontent.com/92064386/138007156-3ae6e393-a770-4bf7-85cb-9f9d390fb118.png)
 ###### Gama Academy
+
 ![image](https://user-images.githubusercontent.com/92064386/138007193-47cac947-928e-4909-a299-0ae99b35eed9.png)
 ###### Banco PAN
 # 
