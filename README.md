@@ -44,7 +44,7 @@
 
 ## Escopo e objetivo
 
-Desenvolver um programa para simular um carrinho de compras, as telas demonstradas em modo texto na console da IDE segundo os requisitos descritos no documento do desafio [Desafio do programador](19_10_Desafio_do_programador.pdf).
+Desenvolver um programa para simular um carrinho de compras, as telas demonstradas em modo texto na console da IDE segundo os requisitos descritos no documento do desafio [Desafio do programador](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/19_10_Desafio_do_programador.pdf).
 
 
 
@@ -52,7 +52,7 @@ Desenvolver um programa para simular um carrinho de compras, as telas demonstrad
 
 O diagrama facilitou a visão e a divisão de tarefas entre os membros do time. A representação de forma visual da arquitetura utilizada, segue o diagrama de classes:
 
-![](Desafio1.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/Desafio1.jpg)
 
 ###### Diagrama do Software via [diagrams.net](https://www.diagrams.net/)
 
@@ -66,38 +66,38 @@ Houve a tentativa de encapsulamento dos membros das classes e a divisão de resp
 
 ## Gerência do Projeto
 
-O time é multidisciplinar auto gerenciável, para gerenciamento do projeto foi utilizado o Trello sendo aplicado um quadro KANBAN onde cada desenvolvedor arrasta um card para realizar a tarefa. 
+O time é multidisciplinar auto gerenciável, para gerenciamento do projeto foi utilizado o [Trello](https://trello.com/pt-BR/home) sendo aplicado um quadro KANBAN onde cada desenvolvedor arrasta um card para realizar a tarefa. 
 
 Abaixo um screenshot ilustrativo feito durante o desenvolvimento do projeto
 
-![](trello-screenshot.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/trello-screenshot.jpg)
 
 ###### Trello
 
 
 ## Screnshots do Console
 
-![](tela1.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela1.jpg)
 
 ###### Tela incial
 
-![](tela2.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela2.jpg)
 
 ###### Tela escolha do produto, inclusão de nome e quantidade
 
-![](tela3.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela3.jpg)
 
 ###### Tela do carrinho
 
-![](tela4.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela4.jpg)
 
 ###### Tela das formas de pagamento
 
-![](tela5.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela5.jpg)
 
 ###### Tela do cupom fiscal
 
-![](tela6.jpg)
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela6.jpg)
 
 ###### Tela de saída do sistema
 
