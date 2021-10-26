@@ -75,23 +75,23 @@ Abaixo um screenshot ilustrativo feito durante o desenvolvimento do projeto
 
 ## Screnshots do Console
 
-![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela1.jpg)
 ###### Tela 1 - tela incial
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela1.jpg)
 
-![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela2.jpg)
 ###### Tela 2 - tela escolha do produto, inclusão de nome e quantidade
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela2.jpg)
 
-![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela3.jpg)
 ###### Tela 3 - tela do carrinho
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela3.jpg)
 
-![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela4.jpg)
 ###### Tela 4 - tela das formas de pagamento
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela4.jpg)
 
-![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela5.jpg)
 ###### Tela 5 - tela do cupom fiscal
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela5.jpg)
 
-![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela6.jpg)
 ###### Tela 6 - tela de saída do sistema
+![](https://github.com/tiagodalmeida87/desafio-1-do-programador-panacademy/blob/main/PanStore/src/img/tela6.jpg)
 
 
 ## Patrocinadores
